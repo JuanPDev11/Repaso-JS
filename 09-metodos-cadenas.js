@@ -34,6 +34,8 @@ let resultado9 = cadena2.repeat(4);
 
 
 
+
+
 //split() - divide la cadena como le pidamos
 let cadena3 = "hola,como,estas"
 let resultado10 = cadena3.split(",") //divide cada ","
